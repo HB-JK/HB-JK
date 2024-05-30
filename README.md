@@ -6,7 +6,6 @@ Web developer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [juliuskayne07@gmail.com](mailto:juliuskayne07@gmail.com)
-* 🧠  I'm learning Laravel, Vue
 
 ### Skills
 
