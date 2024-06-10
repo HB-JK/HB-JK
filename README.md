@@ -4,7 +4,7 @@ Hi 👋 My name is HB-JK
 Web developer
 -------------
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm from Indonesia
 * ✉️  You can contact me at [juliuskayne07@gmail.com](mailto:juliuskayne07@gmail.com)
 
 ### Skills
